@@ -1,0 +1,416 @@
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Recorder.exe
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Recorder.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.Formats.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.Audio.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.DirectSound.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Math.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\AForge.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\AForge.Math.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\SharpDX.DirectSound.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\SharpDX.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\ZedGraph.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Statistics.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.MachineLearning.dll
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.Formats.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Audio.Formats.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.Audio.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.Audio.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.DirectSound.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.DirectSound.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Math.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Math.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\AForge.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\AForge.Math.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\SharpDX.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\SharpDX.DirectSound.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\ZedGraph.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Controls.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Statistics.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.Statistics.xml
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.MachineLearning.pdb
+D:\Kolia (BILAP50-PC)\Recorder\bin\Debug\Accord.MachineLearning.xml
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.AboutBox.resources
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.MainForm.resources
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.Properties.Resources.resources
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.exe
+D:\Kolia (BILAP50-PC)\Recorder\obj\x86\Debug\Recorder.pdb
+E:\eng_amr\Recorder\obj\x86\Debug\Recorder.exe
+E:\eng_amr\Recorder\obj\x86\Debug\Recorder.pdb
+E:\eng_amr\Recorder\bin\Debug\Recorder.exe
+E:\eng_amr\Recorder\bin\Debug\Recorder.pdb
+E:\eng_amr\Recorder\bin\Debug\AForge.dll
+E:\eng_amr\Recorder\bin\Debug\AForge.Math.dll
+E:\eng_amr\Recorder\bin\Debug\SharpDX.DirectSound.dll
+E:\eng_amr\Recorder\bin\Debug\SharpDX.dll
+E:\eng_amr\Recorder\bin\Debug\ZedGraph.dll
+E:\eng_amr\Recorder\bin\Debug\Accord.Controls.dll
+E:\eng_amr\Recorder\bin\Debug\Accord.Statistics.dll
+E:\eng_amr\Recorder\bin\Debug\Accord.MachineLearning.dll
+E:\eng_amr\Recorder\bin\Debug\Accord.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Audio.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Audio.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Audio.Formats.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Audio.Formats.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Controls.Audio.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Controls.Audio.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.DirectSound.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.DirectSound.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Math.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Math.xml
+E:\eng_amr\Recorder\bin\Debug\AForge.xml
+E:\eng_amr\Recorder\bin\Debug\AForge.Math.xml
+E:\eng_amr\Recorder\bin\Debug\SharpDX.xml
+E:\eng_amr\Recorder\bin\Debug\SharpDX.DirectSound.xml
+E:\eng_amr\Recorder\bin\Debug\ZedGraph.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Controls.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Controls.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.Statistics.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.Statistics.xml
+E:\eng_amr\Recorder\bin\Debug\Accord.MachineLearning.pdb
+E:\eng_amr\Recorder\bin\Debug\Accord.MachineLearning.xml
+E:\eng_amr\Recorder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eng_amr\Recorder\obj\x86\Debug\Recorder.AboutBox.resources
+E:\eng_amr\Recorder\obj\x86\Debug\Recorder.MainForm.resources
+E:\eng_amr\Recorder\obj\x86\Debug\Recorder.Properties.Resources.resources
+E:\eng_amr\Recorder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eng_amr\Recorder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eng_amr\Recorder_updated\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eng_amr\Recorder_updated\obj\x86\Debug\Recorder.EnrollmentForm.resources
+E:\eng_amr\Recorder_updated\obj\x86\Debug\Recorder.Properties.Resources.resources
+E:\eng_amr\Recorder_updated\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eng_amr\Recorder_updated\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eng_amr\Recorder_updated\bin\Debug\Recorder.exe
+E:\eng_amr\Recorder_updated\bin\Debug\Recorder.pdb
+E:\eng_amr\Recorder_updated\bin\Debug\AForge.dll
+E:\eng_amr\Recorder_updated\bin\Debug\AForge.Math.dll
+E:\eng_amr\Recorder_updated\bin\Debug\SharpDX.DirectSound.dll
+E:\eng_amr\Recorder_updated\bin\Debug\SharpDX.dll
+E:\eng_amr\Recorder_updated\bin\Debug\AForge.xml
+E:\eng_amr\Recorder_updated\bin\Debug\AForge.Math.xml
+E:\eng_amr\Recorder_updated\bin\Debug\SharpDX.xml
+E:\eng_amr\Recorder_updated\bin\Debug\SharpDX.DirectSound.xml
+E:\eng_amr\Recorder_updated\obj\x86\Debug\Recorder.MainForm.resources
+E:\eng_amr\Recorder_updated\obj\x86\Debug\Recorder.exe
+E:\eng_amr\Recorder_updated\obj\x86\Debug\Recorder.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.pdb
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.exe
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.pdb
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.EnrollmentForm.resources
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.MainForm.resources
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.Properties.Resources.resources
+E:\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\MATLABAudioFunctionsNative.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\MWArray.dll
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Speaker Identification\[TEMPLATE] SpeakerID\bin\Debug\MWArray.xml
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Desktop\[TEMPLATE] SpeakerID\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College Stuff\Y3\1st\Algo\Projects\Project\1.3\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Documents\repos\voice-id\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\Desktop\Working copy - 1.3\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.4\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.4\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\1.5\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.0\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.1\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.2\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.3\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.4\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.2\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.3\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\Recorder.exe
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\Recorder.pdb
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\AForge.dll
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\AForge.Math.dll
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\SharpDX.DirectSound.dll
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\SharpDX.dll
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\AForge.xml
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\AForge.Math.xml
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\SharpDX.xml
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\bin\Debug\SharpDX.DirectSound.xml
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.MainForm.resources
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.Properties.Resources.resources
+G:\Cs\3d year\Algorithms\projects\Speaker Identification Startup Code\2.5.4\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.6\bin\Debug\MetroFramework.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\MetroFramework.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.7\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.MainForm.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.Properties.Resources.resources
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.csproj.GenerateResource.Cache
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\AForge.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\AForge.Math.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\MetroFramework.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\SharpDX.dll
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\AForge.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\AForge.Math.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\SharpDX.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.exe
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.pdb
+C:\Users\Ahmed Anwar\OneDrive\College\3.1\Algo\Projects\Project\2.8\obj\x86\Debug\Recorder.csprojResolveAssemblyReference.cache
